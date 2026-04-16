@@ -444,8 +444,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 👤 Author
 
 **Robin**
-- Email: robin@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: robinsingh44972@gmail.com
+- GitHub: [@Robin-git-ds](https://github.com/Robin-git-ds)
 
 ---
 
